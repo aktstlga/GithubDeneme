@@ -3,6 +3,7 @@ public class Zilha_01 {
 
         System.out.println("Zilha : ilk sout");
         System.out.println("zilha: ikinci sout");
+        System.out.println("deneme 3");
         
     }
 }
